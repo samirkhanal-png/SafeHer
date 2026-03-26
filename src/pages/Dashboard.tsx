@@ -8,7 +8,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Shield, Info, BellRing, AlertTriangle, Share2 } from "lucide-react";
 import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
-import SafetyChatBot from "@/components/SafetyChatBot";
+import SafetyChatBot from "@/components/SafetyChatbot";
 import { useWeb3 } from "@/contexts/Web3Context";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { AlertCircle } from "lucide-react";
